@@ -1,0 +1,6 @@
+[
+	{ "country": "Fake 1", "borders": ["Fake 2", "Fake 3"] },
+	{ "country": "Fake 2", "borders": ["Fake 1", "Fake 4"] },
+	{ "country": "Fake 3", "borders": ["Fake 1", "Fake 4"] },
+	{ "country": "Fake 4", "borders": ["Fake 2", "Fake 3"] }
+]

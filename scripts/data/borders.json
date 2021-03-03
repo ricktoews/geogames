@@ -1,0 +1,1623 @@
+[
+    {
+        "country": "Abkhazia",
+        "borders": [
+            "Russia",
+            "Georgia"
+        ]
+    },
+    {
+        "country": "Afghanistan",
+        "borders": [
+            "People's Republic of China",
+            "Iran",
+            "Pakistan",
+            "Tajikistan",
+            "Turkmenistan",
+            "Uzbekistan"
+        ]
+    },
+    {
+        "country": "Albania",
+        "borders": [
+            "Greece",
+            "North Macedonia",
+            "Montenegro"
+        ]
+    },
+    {
+        "country": "Algeria",
+        "borders": [
+            "Libya",
+            "Mali",
+            "Mauritania",
+            "Morocco",
+            "Niger",
+            "Tunisia"
+        ]
+    },
+    {
+        "country": "Andorra",
+        "borders": [
+            "France",
+            "Spain"
+        ]
+    },
+    {
+        "country": "Angola",
+        "borders": [
+            "Democratic Republic of the Congo",
+            "Republic of the Congo",
+            "Namibia",
+            "Zambia"
+        ]
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "borders": []
+    },
+    {
+        "country": "Argentina",
+        "borders": [
+            "Bolivia",
+            "Brazil",
+            "Chile",
+            "Paraguay",
+            "Uruguay"
+        ]
+    },
+    {
+        "country": "Armenia",
+        "borders": [
+            "Azerbaijan",
+            "Georgia",
+            "Iran",
+            "Turkey"
+        ]
+    },
+    {
+        "country": "Australia",
+        "borders": []
+    },
+    {
+        "country": "Austria",
+        "borders": [
+            "Czech Republic",
+            "Germany",
+            "Hungary",
+            "Italy",
+            "Liechtenstein",
+            "Slovakia",
+            "Slovenia",
+            "Switzerland"
+        ]
+    },
+    {
+        "country": "Azerbaijan",
+        "borders": [
+            "Armenia",
+            "Georgia",
+            "Iran",
+            "Russia",
+            "Turkey"
+        ]
+    },
+    {
+        "country": "Bahamas",
+        "borders": []
+    },
+    {
+        "country": "Bahrain",
+        "borders": []
+    },
+    {
+        "country": "Bangladesh",
+        "borders": [
+            "India",
+            "Myanmar"
+        ]
+    },
+    {
+        "country": "Barbados",
+        "borders": []
+    },
+    {
+        "country": "Belarus",
+        "borders": [
+            "Latvia",
+            "Lithuania",
+            "Poland",
+            "Russia",
+            "Ukraine"
+        ]
+    },
+    {
+        "country": "Belgium",
+        "borders": [
+            "France",
+            "Germany",
+            "Luxembourg",
+            "Netherlands"
+        ]
+    },
+    {
+        "country": "Belize",
+        "borders": [
+            "Guatemala",
+            "Mexico"
+        ]
+    },
+    {
+        "country": "Benin",
+        "borders": [
+            "Burkina Faso",
+            "Niger",
+            "Nigeria",
+            "Togo"
+        ]
+    },
+    {
+        "country": "Bhutan",
+        "borders": [
+            "People's Republic of China",
+            "India"
+        ]
+    },
+    {
+        "country": "Bolivia",
+        "borders": [
+            "Argentina",
+            "Brazil",
+            "Chile",
+            "Paraguay",
+            "Peru"
+        ]
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "borders": [
+            "Croatia",
+            "Montenegro",
+            "Serbia"
+        ]
+    },
+    {
+        "country": "Botswana",
+        "borders": [
+            "Namibia",
+            "South Africa",
+            "Zambia",
+            "Zimbabwe"
+        ]
+    },
+    {
+        "country": "Brazil",
+        "borders": [
+            "Argentina",
+            "Bolivia",
+            "Colombia",
+            "France",
+            "Guyana",
+            "Paraguay",
+            "Peru",
+            "Suriname",
+            "Uruguay",
+            "Venezuela"
+        ]
+    },
+    {
+        "country": "Brunei",
+        "borders": [
+            "Malaysia"
+        ]
+    },
+    {
+        "country": "Bulgaria",
+        "borders": [
+            "Greece",
+            "North Macedonia",
+            "Romania",
+            "Serbia",
+            "Turkey"
+        ]
+    },
+    {
+        "country": "Burkina Faso",
+        "borders": [
+            "Benin",
+            "Côte d'Ivoire",
+            "Ghana",
+            "Mali",
+            "Niger",
+            "Togo"
+        ]
+    },
+    {
+        "country": "Burundi",
+        "borders": [
+            "Democratic Republic of the Congo",
+            "Rwanda",
+            "Tanzania"
+        ]
+    },
+    {
+        "country": "Cambodia",
+        "borders": [
+            "Laos",
+            "Thailand",
+            "Vietnam"
+        ]
+    },
+    {
+        "country": "Cameroon",
+        "borders": [
+            "Central African Republic",
+            "Chad",
+            "Republic of the Congo",
+            "Equatorial Guinea",
+            "Gabon",
+            "Nigeria"
+        ]
+    },
+    {
+        "country": "Canada",
+        "borders": [
+            "United States"
+        ]
+    },
+    {
+        "country": "Cape Verde",
+        "borders": []
+    },
+    {
+        "country": "Central African Republic",
+        "borders": [
+            "Cameroon",
+            "Chad",
+            "Democratic Republic of the Congo",
+            "Republic of the Congo",
+            "South Sudan",
+            "Sudan"
+        ]
+    },
+    {
+        "country": "Chad",
+        "borders": [
+            "Cameroon",
+            "Central African Republic",
+            "Libya",
+            "Niger",
+            "Nigeria",
+            "Sudan"
+        ]
+    },
+    {
+        "country": "Chile",
+        "borders": [
+            "Argentina",
+            "Bolivia",
+            "Peru"
+        ]
+    },
+    {
+        "country": "People's Republic of China",
+        "borders": [
+            "Afghanistan",
+            "Bhutan",
+            "India",
+            "Kazakhstan",
+            "North Korea",
+            "Kyrgyzstan",
+            "Laos",
+            "Mongolia",
+            "Myanmar",
+            "Nepal",
+            "Russia",
+            "Tajikistan",
+            "Vietnam"
+        ]
+    },
+    {
+        "country": "Colombia",
+        "borders": [
+            "Brazil",
+            "Ecuador",
+            "Panama",
+            "Peru",
+            "Venezuela"
+        ]
+    },
+    {
+        "country": "Comoros",
+        "borders": []
+    },
+    {
+        "country": "Democratic Republic of the Congo",
+        "borders": [
+            "Angola",
+            "Burundi",
+            "Central African Republic",
+            "Republic of the Congo",
+            "Rwanda",
+            "South Sudan",
+            "Tanzania",
+            "Uganda",
+            "Zambia"
+        ]
+    },
+    {
+        "country": "Republic of the Congo",
+        "borders": [
+            "Angola",
+            "Cameroon",
+            "Central African Republic",
+            "Democratic Republic of the Congo",
+            "Gabon"
+        ]
+    },
+    {
+        "country": "Costa Rica",
+        "borders": [
+            "Nicaragua",
+            "Panama"
+        ]
+    },
+    {
+        "country": "Côte d'Ivoire",
+        "borders": [
+            "Burkina Faso",
+            "Ghana",
+            "Guinea",
+            "Liberia",
+            "Mali"
+        ]
+    },
+    {
+        "country": "Croatia",
+        "borders": [
+            "Bosnia and Herzegovina",
+            "Hungary",
+            "Montenegro",
+            "Serbia",
+            "Slovenia"
+        ]
+    },
+    {
+        "country": "Cuba",
+        "borders": []
+    },
+    {
+        "country": "Cyprus",
+        "borders": [
+            "United Kingdom"
+        ]
+    },
+    {
+        "country": "Czech Republic",
+        "borders": [
+            "Austria",
+            "Germany",
+            "Poland",
+            "Slovakia"
+        ]
+    },
+    {
+        "country": "Denmark",
+        "borders": [
+            "Germany"
+        ]
+    },
+    {
+        "country": "Djibouti",
+        "borders": [
+            "Eritrea",
+            "Ethiopia"
+        ]
+    },
+    {
+        "country": "Dominica",
+        "borders": []
+    },
+    {
+        "country": "Dominican Republic",
+        "borders": [
+            "Haiti"
+        ]
+    },
+    {
+        "country": "East Timor",
+        "borders": [
+            "Indonesia"
+        ]
+    },
+    {
+        "country": "Ecuador",
+        "borders": [
+            "Colombia",
+            "Peru"
+        ]
+    },
+    {
+        "country": "Egypt",
+        "borders": [
+            "Israel",
+            "Libya",
+            "Sudan"
+        ]
+    },
+    {
+        "country": "El Salvador",
+        "borders": [
+            "Guatemala",
+            "Honduras"
+        ]
+    },
+    {
+        "country": "Equatorial Guinea",
+        "borders": [
+            "Cameroon",
+            "Gabon"
+        ]
+    },
+    {
+        "country": "Eritrea",
+        "borders": [
+            "Djibouti",
+            "Ethiopia",
+            "Sudan"
+        ]
+    },
+    {
+        "country": "Estonia",
+        "borders": [
+            "Latvia",
+            "Russia"
+        ]
+    },
+    {
+        "country": "Eswatini",
+        "borders": [
+            "Mozambique",
+            "South Africa"
+        ]
+    },
+    {
+        "country": "Ethiopia",
+        "borders": [
+            "Djibouti",
+            "Eritrea",
+            "Kenya",
+            "Somalia",
+            "South Sudan",
+            "Sudan"
+        ]
+    },
+    {
+        "country": "Fiji",
+        "borders": []
+    },
+    {
+        "country": "Finland",
+        "borders": [
+            "Norway",
+            "Sweden",
+            "Russia"
+        ]
+    },
+    {
+        "country": "France",
+        "borders": [
+            "Andorra",
+            "Belgium",
+            "Germany",
+            "Italy",
+            "Luxembourg",
+            "Monaco",
+            "Spain",
+            "Switzerland"
+        ]
+    },
+    {
+        "country": "Gabon",
+        "borders": [
+            "Cameroon",
+            "Republic of the Congo",
+            "Equatorial Guinea"
+        ]
+    },
+    {
+        "country": "The Gambia",
+        "borders": [
+            "Senegal"
+        ]
+    },
+    {
+        "country": "Georgia",
+        "borders": [
+            "Armenia",
+            "Azerbaijan",
+            "Russia",
+            "Turkey",
+            "Abkhazia",
+            "South Ossetia"
+        ]
+    },
+    {
+        "country": "Germany",
+        "borders": [
+            "Austria",
+            "Belgium",
+            "Czech Republic",
+            "Denmark",
+            "France",
+            "Luxembourg",
+            "Netherlands",
+            "Poland",
+            "Switzerland"
+        ]
+    },
+    {
+        "country": "Ghana",
+        "borders": [
+            "Burkina Faso",
+            "Côte d'Ivoire",
+            "Togo"
+        ]
+    },
+    {
+        "country": "Greece",
+        "borders": [
+            "Albania",
+            "Bulgaria",
+            "Turkey",
+            "North Macedonia"
+        ]
+    },
+    {
+        "country": "Grenada",
+        "borders": []
+    },
+    {
+        "country": "Guatemala",
+        "borders": [
+            "Belize",
+            "El Salvador",
+            "Honduras",
+            "Mexico"
+        ]
+    },
+    {
+        "country": "Guinea",
+        "borders": [
+            "Côte d'Ivoire",
+            "Guinea-Bissau",
+            "Liberia",
+            "Mali",
+            "Senegal",
+            "Sierra Leone"
+        ]
+    },
+    {
+        "country": "Guinea-Bissau",
+        "borders": [
+            "Guinea",
+            "Senegal"
+        ]
+    },
+    {
+        "country": "Guyana",
+        "borders": [
+            "Brazil",
+            "Suriname",
+            "Venezuela"
+        ]
+    },
+    {
+        "country": "Haiti",
+        "borders": [
+            "Dominican Republic"
+        ]
+    },
+    {
+        "country": "Honduras",
+        "borders": [
+            "Guatemala",
+            "El Salvador",
+            "Nicaragua"
+        ]
+    },
+    {
+        "country": "Hong Kong",
+        "borders": [
+            "People's Republic of China"
+        ]
+    },
+    {
+        "country": "Hungary",
+        "borders": [
+            "Austria",
+            "Croatia",
+            "Romania",
+            "Serbia",
+            "Slovakia",
+            "Slovenia",
+            "Ukraine"
+        ]
+    },
+    {
+        "country": "Iceland",
+        "borders": []
+    },
+    {
+        "country": "India",
+        "borders": [
+            "Afghanistan",
+            "Bangladesh",
+            "Bhutan",
+            "People's Republic of China",
+            "Myanmar",
+            "Nepal",
+            "Pakistan"
+        ]
+    },
+    {
+        "country": "Indonesia",
+        "borders": [
+            "East Timor",
+            "Malaysia",
+            "Papua New Guinea"
+        ]
+    },
+    {
+        "country": "Iran",
+        "borders": [
+            "Afghanistan",
+            "Armenia",
+            "Azerbaijan",
+            "Iraq",
+            "Pakistan",
+            "Turkey",
+            "Turkmenistan"
+        ]
+    },
+    {
+        "country": "Iraq",
+        "borders": [
+            "Iran",
+            "Jordan",
+            "Kuwait",
+            "Saudi Arabia",
+            "Syria",
+            "Turkey"
+        ]
+    },
+    {
+        "country": "Ireland",
+        "borders": [
+            "United Kingdom"
+        ]
+    },
+    {
+        "country": "Israel",
+        "borders": [
+            "Egypt",
+            "Palestine",
+            "Jordan",
+            "Lebanon",
+            "Syria",
+            "Palestine"
+        ]
+    },
+    {
+        "country": "Italy",
+        "borders": [
+            "Austria",
+            "France",
+            "San Marino",
+            "Slovenia",
+            "Switzerland",
+            "Vatican City"
+        ]
+    },
+    {
+        "country": "Jamaica",
+        "borders": []
+    },
+    {
+        "country": "Japan",
+        "borders": []
+    },
+    {
+        "country": "Jordan",
+        "borders": [
+            "Iraq",
+            "Israel",
+            "Saudi Arabia",
+            "Syria",
+            "Palestine"
+        ]
+    },
+    {
+        "country": "Kazakhstan",
+        "borders": [
+            "People's Republic of China",
+            "Kyrgyzstan",
+            "Russia",
+            "Turkmenistan",
+            "Uzbekistan"
+        ]
+    },
+    {
+        "country": "Kenya",
+        "borders": [
+            "Ethiopia",
+            "Somalia",
+            "South Sudan",
+            "Tanzania",
+            "Uganda"
+        ]
+    },
+    {
+        "country": "Kiribati",
+        "borders": []
+    },
+    {
+        "country": "North Korea",
+        "borders": [
+            "People's Republic of China",
+            "South Korea",
+            "Russia"
+        ]
+    },
+    {
+        "country": "South Korea",
+        "borders": [
+            "North Korea"
+        ]
+    },
+    {
+        "country": "Kosovo",
+        "borders": [
+            "Albania",
+            "Montenegro",
+            "North Macedonia",
+            "Serbia"
+        ]
+    },
+    {
+        "country": "Kuwait",
+        "borders": [
+            "Iraq",
+            "Saudi Arabia"
+        ]
+    },
+    {
+        "country": "Kyrgyzstan",
+        "borders": [
+            "People's Republic of China",
+            "Kazakhstan",
+            "Tajikistan",
+            "Uzbekistan"
+        ]
+    },
+    {
+        "country": "Laos",
+        "borders": [
+            "Cambodia",
+            "People's Republic of China",
+            "Myanmar",
+            "Thailand",
+            "Vietnam"
+        ]
+    },
+    {
+        "country": "Latvia",
+        "borders": [
+            "Belarus",
+            "Estonia",
+            "Lithuania",
+            "Russia"
+        ]
+    },
+    {
+        "country": "Lebanon",
+        "borders": [
+            "Israel",
+            "Syria"
+        ]
+    },
+    {
+        "country": "Lesotho",
+        "borders": [
+            "South Africa"
+        ]
+    },
+    {
+        "country": "Liberia",
+        "borders": [
+            "Guinea",
+            "Côte d'Ivoire",
+            "Sierra Leone"
+        ]
+    },
+    {
+        "country": "Libya",
+        "borders": [
+            "Algeria",
+            "Chad",
+            "Egypt",
+            "Niger",
+            "Sudan",
+            "Tunisia"
+        ]
+    },
+    {
+        "country": "Liechtenstein",
+        "borders": [
+            "Austria",
+            "Switzerland"
+        ]
+    },
+    {
+        "country": "Lithuania",
+        "borders": [
+            "Belarus",
+            "Latvia",
+            "Poland",
+            "Russia"
+        ]
+    },
+    {
+        "country": "Luxembourg",
+        "borders": [
+            "Belgium",
+            "France",
+            "Germany"
+        ]
+    },
+    {
+        "country": "Macau",
+        "borders": [
+            "People's Republic of China"
+        ]
+    },
+    {
+        "country": "Madagascar",
+        "borders": []
+    },
+    {
+        "country": "Madeira",
+        "borders": []
+    },
+    {
+        "country": "Malawi",
+        "borders": [
+            "Mozambique",
+            "Tanzania",
+            "Zambia"
+        ]
+    },
+    {
+        "country": "Malaysia",
+        "borders": [
+            "Brunei",
+            "Indonesia",
+            "Thailand"
+        ]
+    },
+    {
+        "country": "Maldives",
+        "borders": []
+    },
+    {
+        "country": "Mali",
+        "borders": [
+            "Algeria",
+            "Burkina Faso",
+            "Côte d'Ivoire",
+            "Guinea",
+            "Mauritania",
+            "Niger",
+            "Senegal"
+        ]
+    },
+    {
+        "country": "Malta",
+        "borders": []
+    },
+    {
+        "country": "Marshall Islands",
+        "borders": []
+    },
+    {
+        "country": "Mauritania",
+        "borders": [
+            "Algeria",
+            "Mali",
+            "Senegal"
+        ]
+    },
+    {
+        "country": "Mauritius",
+        "borders": []
+    },
+    {
+        "country": "Mexico",
+        "borders": [
+            "Belize",
+            "Guatemala",
+            "United States"
+        ]
+    },
+    {
+        "country": "Federated States of Micronesia",
+        "borders": []
+    },
+    {
+        "country": "Moldova",
+        "borders": [
+            "Romania",
+            "Ukraine"
+        ]
+    },
+    {
+        "country": "Monaco",
+        "borders": [
+            "France"
+        ]
+    },
+    {
+        "country": "Mongolia",
+        "borders": [
+            "People's Republic of China",
+            "Russia"
+        ]
+    },
+    {
+        "country": "Montenegro",
+        "borders": [
+            "Albania",
+            "Bosnia and Herzegovina",
+            "Croatia",
+            "Serbia"
+        ]
+    },
+    {
+        "country": "Morocco",
+        "borders": [
+            "Algeria",
+            "Spain"
+        ]
+    },
+    {
+        "country": "Mozambique",
+        "borders": [
+            "Eswatini",
+            "Malawi",
+            "South Africa",
+            "Tanzania",
+            "Zambia",
+            "Zimbabwe"
+        ]
+    },
+    {
+        "country": "Myanmar",
+        "borders": [
+            "Bangladesh",
+            "People's Republic of China",
+            "India",
+            "Laos",
+            "Thailand"
+        ]
+    },
+    {
+        "country": "Namibia",
+        "borders": [
+            "Angola",
+            "Botswana",
+            "South Africa",
+            "Zambia"
+        ]
+    },
+    {
+        "country": "Nauru",
+        "borders": []
+    },
+    {
+        "country": "Nepal",
+        "borders": [
+            "People's Republic of China",
+            "India"
+        ]
+    },
+    {
+        "country": "Netherlands",
+        "borders": [
+            "Belgium",
+            "Germany",
+            "France"
+        ]
+    },
+    {
+        "country": "New Zealand",
+        "borders": []
+    },
+    {
+        "country": "Nicaragua",
+        "borders": [
+            "Costa Rica",
+            "Honduras"
+        ]
+    },
+    {
+        "country": "Niger",
+        "borders": [
+            "Algeria",
+            "Benin",
+            "Burkina Faso",
+            "Chad",
+            "Libya",
+            "Mali",
+            "Nigeria"
+        ]
+    },
+    {
+        "country": "Nigeria",
+        "borders": [
+            "Benin",
+            "Cameroon",
+            "Chad",
+            "Niger"
+        ]
+    },
+    {
+        "country": "North Macedonia",
+        "borders": [
+            "Albania",
+            "Bulgaria",
+            "Greece",
+            "Serbia"
+        ]
+    },
+    {
+        "country": "Norway",
+        "borders": [
+            "Finland",
+            "Sweden",
+            "Russia"
+        ]
+    },
+    {
+        "country": "Oman",
+        "borders": [
+            "Saudi Arabia",
+            "United Arab Emirates",
+            "Yemen"
+        ]
+    },
+    {
+        "country": "Pakistan",
+        "borders": [
+            "Afghanistan",
+            "India",
+            "Iran",
+            "People's Republic of China"
+        ]
+    },
+    {
+        "country": "Palau",
+        "borders": []
+    },
+    {
+        "country": "Palestine",
+        "borders": [
+            "Egypt",
+            "Israel",
+            "Jordan"
+        ]
+    },
+    {
+        "country": "Panama",
+        "borders": [
+            "Colombia",
+            "Costa Rica"
+        ]
+    },
+    {
+        "country": "Papua New Guinea",
+        "borders": [
+            "Indonesia"
+        ]
+    },
+    {
+        "country": "Paraguay",
+        "borders": [
+            "Argentina",
+            "Bolivia",
+            "Brazil"
+        ]
+    },
+    {
+        "country": "Peru",
+        "borders": [
+            "Bolivia",
+            "Brazil",
+            "Chile",
+            "Colombia",
+            "Ecuador"
+        ]
+    },
+    {
+        "country": "Philippines",
+        "borders": []
+    },
+    {
+        "country": "Poland",
+        "borders": [
+            "Belarus",
+            "Czech Republic",
+            "Germany",
+            "Lithuania",
+            "Russia",
+            "Slovakia",
+            "Ukraine"
+        ]
+    },
+    {
+        "country": "Portugal",
+        "borders": [
+            "Spain"
+        ]
+    },
+    {
+        "country": "Qatar",
+        "borders": [
+            "Saudi Arabia"
+        ]
+    },
+    {
+        "country": "Romania",
+        "borders": [
+            "Bulgaria",
+            "Hungary",
+            "Moldova",
+            "Serbia",
+            "Ukraine"
+        ]
+    },
+    {
+        "country": "Russia",
+        "borders": [
+            "Azerbaijan",
+            "Belarus",
+            "People's Republic of China",
+            "Estonia",
+            "Finland",
+            "Georgia",
+            "Kazakhstan",
+            "North Korea",
+            "Latvia",
+            "Lithuania",
+            "Mongolia",
+            "Norway",
+            "Poland",
+            "Ukraine",
+            "South Ossetia",
+            "Abkhazia"
+        ]
+    },
+    {
+        "country": "Rwanda",
+        "borders": [
+            "Burundi",
+            "Democratic Republic of the Congo",
+            "Tanzania",
+            "Uganda"
+        ]
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "borders": []
+    },
+    {
+        "country": "Saint Lucia",
+        "borders": []
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "borders": []
+    },
+    {
+        "country": "Samoa",
+        "borders": []
+    },
+    {
+        "country": "San Marino",
+        "borders": [
+            "Italy"
+        ]
+    },
+    {
+        "country": "São Tomé and Príncipe",
+        "borders": []
+    },
+    {
+        "country": "Saudi Arabia",
+        "borders": [
+            "Iraq",
+            "Jordan",
+            "Kuwait",
+            "Oman",
+            "Qatar",
+            "United Arab Emirates",
+            "Yemen"
+        ]
+    },
+    {
+        "country": "Senegal",
+        "borders": [
+            "The Gambia",
+            "Guinea",
+            "Guinea-Bissau",
+            "Mali",
+            "Mauritania"
+        ]
+    },
+    {
+        "country": "Serbia",
+        "borders": [
+            "Bosnia and Herzegovina",
+            "Bulgaria",
+            "Croatia",
+            "Hungary",
+            "Montenegro",
+            "North Macedonia",
+            "Romania"
+        ]
+    },
+    {
+        "country": "Seychelles",
+        "borders": []
+    },
+    {
+        "country": "Sierra Leone",
+        "borders": [
+            "Guinea",
+            "Liberia"
+        ]
+    },
+    {
+        "country": "Singapore",
+        "borders": []
+    },
+    {
+        "country": "Slovakia",
+        "borders": [
+            "Austria",
+            "Czech Republic",
+            "Hungary",
+            "Poland",
+            "Ukraine"
+        ]
+    },
+    {
+        "country": "Slovenia",
+        "borders": [
+            "Austria",
+            "Croatia",
+            "Italy",
+            "Hungary"
+        ]
+    },
+    {
+        "country": "Solomon Islands",
+        "borders": []
+    },
+    {
+        "country": "Somalia",
+        "borders": [
+            "Djibouti",
+            "Ethiopia",
+            "Kenya"
+        ]
+    },
+    {
+        "country": "South Africa",
+        "borders": [
+            "Botswana",
+            "Eswatini",
+            "Lesotho",
+            "Mozambique",
+            "Namibia",
+            "Zimbabwe"
+        ]
+    },
+    {
+        "country": "South Ossetia",
+        "borders": [
+            "Russia",
+            "Georgia"
+        ]
+    },
+    {
+        "country": "South Sudan",
+        "borders": [
+            "Central African Republic",
+            "Democratic Republic of the Congo",
+            "Ethiopia",
+            "Kenya",
+            "Sudan",
+            "Uganda"
+        ]
+    },
+    {
+        "country": "Spain",
+        "borders": [
+            "Andorra",
+            "France",
+            "Portugal",
+            "Morocco"
+        ]
+    },
+    {
+        "country": "Sri Lanka",
+        "borders": []
+    },
+    {
+        "country": "Sudan",
+        "borders": [
+            "Central African Republic",
+            "Chad",
+            "Egypt",
+            "Eritrea",
+            "Ethiopia",
+            "Libya",
+            "South Sudan"
+        ]
+    },
+    {
+        "country": "Suriname",
+        "borders": [
+            "Brazil",
+            "France",
+            "Guyana"
+        ]
+    },
+    {
+        "country": "Sweden",
+        "borders": [
+            "Finland",
+            "Norway"
+        ]
+    },
+    {
+        "country": "Switzerland",
+        "borders": [
+            "Austria",
+            "France",
+            "Italy",
+            "Liechtenstein",
+            "Germany"
+        ]
+    },
+    {
+        "country": "Syria",
+        "borders": [
+            "Iraq",
+            "Israel",
+            "Jordan",
+            "Lebanon",
+            "Turkey"
+        ]
+    },
+    {
+        "country": "Tajikistan",
+        "borders": [
+            "Afghanistan",
+            "People's Republic of China",
+            "Kyrgyzstan",
+            "Uzbekistan"
+        ]
+    },
+    {
+        "country": "Tanzania",
+        "borders": [
+            "Burundi",
+            "Democratic Republic of the Congo",
+            "Kenya",
+            "Malawi",
+            "Mozambique",
+            "Rwanda",
+            "Uganda",
+            "Zambia"
+        ]
+    },
+    {
+        "country": "Thailand",
+        "borders": [
+            "Cambodia",
+            "Laos",
+            "Malaysia",
+            "Myanmar"
+        ]
+    },
+    {
+        "country": "Togo",
+        "borders": [
+            "Benin",
+            "Burkina Faso",
+            "Ghana"
+        ]
+    },
+    {
+        "country": "Tonga",
+        "borders": []
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "borders": []
+    },
+    {
+        "country": "Tunisia",
+        "borders": [
+            "Algeria",
+            "Libya"
+        ]
+    },
+    {
+        "country": "Turkey",
+        "borders": [
+            "Armenia",
+            "Azerbaijan",
+            "Bulgaria",
+            "Georgia",
+            "Greece",
+            "Iran",
+            "Iraq",
+            "Syria"
+        ]
+    },
+    {
+        "country": "Turkmenistan",
+        "borders": [
+            "Afghanistan",
+            "Iran",
+            "Kazakhstan",
+            "Uzbekistan"
+        ]
+    },
+    {
+        "country": "Tuvalu",
+        "borders": []
+    },
+    {
+        "country": "Uganda",
+        "borders": [
+            "Democratic Republic of the Congo",
+            "Kenya",
+            "Rwanda",
+            "South Sudan",
+            "Tanzania"
+        ]
+    },
+    {
+        "country": "Ukraine",
+        "borders": [
+            "Belarus",
+            "Hungary",
+            "Moldova",
+            "Poland",
+            "Romania",
+            "Russia",
+            "Slovakia"
+        ]
+    },
+    {
+        "country": "United Arab Emirates",
+        "borders": [
+            "Oman",
+            "Saudi Arabia"
+        ]
+    },
+    {
+        "country": "United Kingdom",
+        "borders": [
+            "Ireland"
+        ]
+    },
+    {
+        "country": "United Kingdom",
+        "borders": [
+            "Cyprus",
+            "Ireland",
+            "Spain"
+        ]
+    },
+    {
+        "country": "United States",
+        "borders": [
+            "Canada",
+            "Mexico"
+        ]
+    },
+    {
+        "country": "Uruguay",
+        "borders": [
+            "Argentina",
+            "Brazil"
+        ]
+    },
+    {
+        "country": "Uzbekistan",
+        "borders": [
+            "Afghanistan",
+            "Kazakhstan",
+            "Kyrgyzstan",
+            "Tajikistan",
+            "Turkmenistan"
+        ]
+    },
+    {
+        "country": "Vanuatu",
+        "borders": []
+    },
+    {
+        "country": "Vatican City",
+        "borders": [
+            "Italy"
+        ]
+    },
+    {
+        "country": "Venezuela",
+        "borders": [
+            "Brazil",
+            "Colombia",
+            "Guyana"
+        ]
+    },
+    {
+        "country": "Vietnam",
+        "borders": [
+            "Cambodia",
+            "People's Republic of China",
+            "Laos"
+        ]
+    },
+    {
+        "country": "Western Sahara",
+        "borders": [
+            "Algeria",
+            "Mauritania",
+            "Morocco"
+        ]
+    },
+    {
+        "country": "Yemen",
+        "borders": [
+            "Oman",
+            "Saudi Arabia"
+        ]
+    },
+    {
+        "country": "Zambia",
+        "borders": [
+            "Angola",
+            "Botswana",
+            "Democratic Republic of the Congo",
+            "Malawi",
+            "Mozambique",
+            "Namibia",
+            "Tanzania",
+            "Zimbabwe"
+        ]
+    },
+    {
+        "country": "Zimbabwe",
+        "borders": [
+            "Botswana",
+            "Mozambique",
+            "South Africa",
+            "Zambia"
+        ]
+    }
+]
